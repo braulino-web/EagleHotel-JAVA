@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EagleHotelBooking</string>
+
+    <string-array name="type">
+        <item> Selecione o Quarto</item>
+        <item> Quarto Casal</item>
+        <item> Quarto Suite </item>
+        <item> Quarto Individual </item>
+        <item> Quarto Suite Master</item>
+    </string-array>
+</resources>
